@@ -1,0 +1,25 @@
+{
+    "id": 26,
+    "image": "https://sbloom-immu.github.io/sample-project-metadata/images/tie.jpeg",
+    "token_id": "26",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Test zkEVM NFT #26",
+    "description": "This NFT is my Tie Immutable zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Tie"
+      }
+    ]
+  }
