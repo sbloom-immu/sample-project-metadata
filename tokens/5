@@ -1,12 +1,12 @@
 {
-    "id": 3,
-    "image": "https://sbloom-immu.github.io/sample-project-metadata/images/coloneltie.jpeg",
-    "token_id": "4",
+    "id": 2,
+    "image": "https://sbloom-immu.github.io/sample-project-metadata/images/tie.jpeg",
+    "token_id": "5",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my Colonel Tie Immutable zkEVM NFT",
+    "name": "Test zkEVM NFT #5",
+    "description": "This NFT is my Tie Immutable zkEVM NFT",
     "external_url": null,
     "attributes": [
       {
@@ -19,7 +19,7 @@
       },
       {
         "trait_type": "Neck",
-        "value": "Colonel Tie"
+        "value": "Tie"
       }
     ]
   }
