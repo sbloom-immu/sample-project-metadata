@@ -6,7 +6,7 @@
     "animation_url": null,
     "youtube_url": null,
     "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "description": "This NFT is my Colonel Tie Immutable zkEVM NFT",
     "external_url": null,
     "attributes": [
       {
@@ -19,7 +19,7 @@
       },
       {
         "trait_type": "Neck",
-        "value": "Bow Tie"
+        "value": "Colonel Tie"
       }
     ]
   }
