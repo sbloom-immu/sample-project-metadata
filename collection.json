@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
+    "name": "Immutable zkEVM Suit Collection - Mainnet Test",
+    "description": "A sample project for minting NFTs on Immutable zkEVM showing different formal mensware",
     "image": "https://sbloom-immu.github.io/sample-project-metadata/images/tophat.jpeg",
     "external_link": "https://immutable.com" 
 }
